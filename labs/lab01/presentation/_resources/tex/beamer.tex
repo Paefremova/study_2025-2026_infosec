@@ -9,6 +9,14 @@
   \usepackage{libertine}
 }
 
+%% Ensure Cyrillic coverage with LuaLaTeX/XeLaTeX
+\IfFileExists{fontspec.sty}{
+  \usepackage{fontspec}
+  \setmainfont{DejaVu Serif}
+  \setsansfont{DejaVu Sans}
+  \setmonofont{DejaVu Sans Mono}
+}{}
+
 %%% Load theme
 % https://deic.uab.cat/~iblanes/beamer_gallery/
 \IfFileExists{beamerthemegotham.sty}{

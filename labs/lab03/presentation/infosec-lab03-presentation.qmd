@@ -41,7 +41,11 @@ format:
 :::
 ::: {.column width="30%"}
 
+<<<<<<< HEAD
 ![](./image/polin.jpg)
+=======
+![](./image/placeholder-avatar.png)
+>>>>>>> 8d58b7f (update repo)
 
 :::
 ::::::::::::::
@@ -82,10 +86,15 @@ format:
 
 ## Иллюстрации
 
+<<<<<<< HEAD
 ![](./image/1.png){fig-alt="Скриншот ключевого шага выполнения"}
 
 ![](./image/2.png){fig-alt="Скриншот ключевого шага выполнения"}
 
+=======
+![](./image/placeholder-step.png){fig-alt="Скриншот ключевого шага выполнения"}
+
+>>>>>>> 8d58b7f (update repo)
 # Результаты и выводы
 
 ## Результаты
